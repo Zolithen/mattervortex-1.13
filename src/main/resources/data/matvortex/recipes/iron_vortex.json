@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "group": "infinity_crafting",
+  "pattern": [
+    "ISI",
+    "OSO",
+    "ISI"
+  ],
+  "key": {
+    "S": {
+      "item": "matvortex:infinity_star"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "O": {
+      "item": "matvortex:obsidian_vortex"
+    }
+  },
+  "result": {
+    "item": "matvortex:iron_vortex",
+    "count": 1
+  }
+}

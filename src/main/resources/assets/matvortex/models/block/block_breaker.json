@@ -1,0 +1,11 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "north": "matvortex:blocks/block_breaker_nside",
+        "east": "matvortex:blocks/block_breaker_nside",
+        "west": "matvortex:blocks/block_breaker_nside",
+        "south": "matvortex:blocks/block_breaker_nside",
+        "up": "matvortex:blocks/block_breaker_side",
+        "down": "matvortex:blocks/block_breaker_nside"
+    }
+}

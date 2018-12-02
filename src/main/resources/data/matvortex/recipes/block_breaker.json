@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "group": "infinity_crafting",
+  "pattern": [
+    "CRC",
+    "CDC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:cobblestone"
+    },
+    "R": {
+      "item": "minecraft:redstone_block"
+    },
+    "D": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "item": "matvortex:block_breaker",
+    "count": 1
+  }
+}

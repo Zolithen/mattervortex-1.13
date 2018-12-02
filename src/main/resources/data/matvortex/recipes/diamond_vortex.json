@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "group": "infinity_crafting",
+  "pattern": [
+    "OIO",
+    "ISI",
+    "OIO"
+  ],
+  "key": {
+    "S": {
+      "item": "matvortex:infinity_casing"
+    },
+    "I": {
+      "item": "minecraft:diamond_block"
+    },
+    "O": {
+      "item": "matvortex:gold_vortex"
+    }
+  },
+  "result": {
+    "item": "matvortex:diamond_vortex",
+    "count": 1
+  }
+}

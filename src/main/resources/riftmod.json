@@ -1,0 +1,10 @@
+{
+  "id": "matvortex",
+  "name": "Matter Vortex",
+  "authors": [
+    "SuperHostile"
+  ],
+  "listeners": [
+    "nki.matvortex.MatVortex"
+  ]
+}

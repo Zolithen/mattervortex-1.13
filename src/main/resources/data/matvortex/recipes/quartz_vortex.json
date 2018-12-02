@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "group": "infinity_crafting",
+  "pattern": [
+    "ISI",
+    "SSS",
+    "ISI"
+  ],
+  "key": {
+    "S": {
+      "item": "matvortex:infinity_casing"
+    },
+    "I": {
+      "item": "minecraft:quartz_block"
+    }
+  },
+  "result": {
+    "item": "matvortex:quartz_vortex",
+    "count": 1
+  }
+}

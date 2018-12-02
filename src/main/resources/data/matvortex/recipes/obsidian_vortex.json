@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "group": "infinity_crafting",
+  "pattern": [
+    "ISI",
+    "SQS",
+    "ISI"
+  ],
+  "key": {
+    "S": {
+      "item": "matvortex:infinity_star"
+    },
+    "I": {
+      "item": "minecraft:obsidian"
+    },
+    "Q": {
+      "item": "matvortex:quartz_vortex"
+    }
+  },
+  "result": {
+    "item": "matvortex:obsidian_vortex",
+    "count": 1
+  }
+}

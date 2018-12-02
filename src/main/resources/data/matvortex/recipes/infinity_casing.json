@@ -1,0 +1,24 @@
+{
+  "type": "crafting_shaped",
+  "group": "infinity_crafting",
+  "pattern": [
+    "DSD",
+    "SGS",
+    "DSD"
+  ],
+  "key": {
+    "S": {
+      "item": "matvortex:infinity_star"
+    },
+    "D": {
+      "item": "minecraft:diamond_block"
+    },
+    "G": {
+      "item": "minecraft:ghast_tear"
+    }
+  },
+  "result": {
+    "item": "matvortex:infinity_casing",
+    "count": 1
+  }
+}
